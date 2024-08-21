@@ -6,7 +6,9 @@ I extend it to optimization idea. In `snell.py`, I implement the snell optimizer
 
 ## Result
 
-![result](./final.png)
+![result](./final-acc.png)
+
+![result](./final-loss.png)
 
 I trained the simple network `mlp(3, 3, 3)` on Iris Datset and optimize it with Adam, SGD and mine. Following this result, I assume that my new proposal maybe useful in some trainings.
 
